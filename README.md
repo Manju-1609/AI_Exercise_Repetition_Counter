@@ -1,4 +1,4 @@
-### AI Exercise Repetition Counter
+# AI Exercise Repetition Counter
 AI Exercise Repetition Counter is a Python-based project that uses computer vision to track and count exercise repetitions. By leveraging OpenCV and MediaPipe, the system can accurately detect body movements and provide real-time feedback to help users track their workout performance.
 
 ## Features
